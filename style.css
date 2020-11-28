@@ -5,4 +5,8 @@
 
 .page__menu {
 	border: 1px solid red;
+
+.page__menu_link {
+	color: "indigo";
+}
 }
